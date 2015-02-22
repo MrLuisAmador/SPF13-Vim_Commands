@@ -5,7 +5,7 @@ All of this information can be attained by searching for the readme file of each
 
 
 --------------------------------------------
-#Plugin: vim-commentary -- Comment stuff out:
+##Plugin: vim-commentary -- Comment stuff out:
 
 A block of code = gc
 A quick one line = gcc
