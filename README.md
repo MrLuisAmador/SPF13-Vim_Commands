@@ -1,11 +1,11 @@
 #Spf13-Vim Keyboard Shortcuts
 
 This is my public reference of the keyboard shortcuts that will help you quickly be productive with spf13-vim.
-All of this information can be attained by searching for the readme file of each default installed plugin of spf13-vim.
-
+My goal is to be able to reference all of the popular shortcuts that we use with ‘Sublime Text’ and display how to do them with 
+spf13-vim. FYI, All of this information can be attained by searching for the readme file of each installed plugin of spf13-vim.
 
 --------------------------------------------
-##Plugin: vim-commentary -- Comment stuff out:
+Plugin: vim-commentary -- Comment stuff out:
 
 A block of code = gc
 A quick one line = gcc
