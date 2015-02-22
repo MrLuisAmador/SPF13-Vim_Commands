@@ -1,8 +1,11 @@
 #Spf13-Vim Keyboard Shortcuts
 
-This is my public reference of the keyboard shortcuts that will help you quickly be productive with spf13-vim.
-My goal is to be able to reference all of the popular shortcuts that we use with **Sublime Text** and display how to do them with 
-spf13-vim. FYI, All of this information can be attained by searching for the readme file of each installed plugin of spf13-vim.
+This is my public reference of the keyboard shortcuts that will help you quickly be productive with [spf13-vim].
+This is for poeple wanting to make the switch from **Sublime Text** to **Vim**. My goal is to be able to reference all of the popular 
+shortcuts that we use with **Sublime Text** and display how to do them with [spf13-vim].
+
+FYI, All of this information can be attained by searching for the readme file of each installed plugin of spf13-vim. You will
+also have to be familiar with using **Vim**, so come back once you feel comfortable with **Vim** and your wrist will thank you in the future.
 
 --------------------------------------------
 ###Plugin: vim-commentary
