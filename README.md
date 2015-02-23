@@ -9,13 +9,20 @@ also have to be familiar with using **Vim**, so come back once you feel comforta
 
 ##Vim Command Mode
 
-I consider this the command palette of **Vim**. There is to much to document on the command mode, so once again, I’m only going to display what I feel is in comparison to 
+I consider this the command palette of **Vim**. There is too much to document on the command mode, so once again, I’m only going to display what I feel is in comparison to 
 Sublime Text.
 
-| Command | Mac OS X | Windows | Linux | Description |
-| ------- | -------- | ------- | ----- | ----------- |
-| Command Mode | |  | ‘’‘shift + :’’’  |  |
-| Command Palette | `shift-cmd-p` |  |  |  |
+| Plug-in          | Command            | Mac OS X | Windows/Linux     | Description |
+| ---------       | --------           | -------  | -----             |----------   |
+| Basic Vim       | Command Mode       |          | `shift + :`       |             |
+| Basic Vim       | Open a file/buffer |          | `:e {filename}`   |             |
+| Basic Vim       | New file/buffer    |          | `:enew`           |             |
+| Basic Vim       | New tab            |          | `:tabe`           |             |
+| Basic Vim       | Horizontal split   |          | `:sp`             |             |
+| Basic Vim       | Vertical split     |          | `:vs`             |             |
+| Basic Vim       | Save               |          | `:w`              |             |
+| Basic Vim       | Save-as            |          | `:sav {filename}` |             |
+| Basic Vim       | Quit               |          | `:q`              |             |
 
 
 ###Plugin: [vim-commentary]()
@@ -28,7 +35,8 @@ A block of code = gc
 
 ````
 A quick one line = gcc
-````
+
+
 -------------------------------------------------------------------------
 Added by me to my vimrc.local -- Move a line or block of code up or down:
 
