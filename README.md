@@ -12,17 +12,40 @@ also have to be familiar with using **Vim**, so come back once you feel comforta
 I consider this the command palette of **Vim**. There is too much to document on the command mode, so once again, I’m only going to display what I feel is in comparison to 
 Sublime Text.
 
+##General 
+
 | Plug-in          | Command            | Mac OS X | Windows/Linux     | Description |
 | ---------       | --------           | -------  | -----             |----------   |
 | Basic Vim       | Command Mode       |          | `shift + :`       |             |
+| Basic Vim       | Help documentation |          | `:h {query}`      |             |
+
+
+##Window Management
+
+| Plug-in          | Command            | Mac OS X | Windows/Linux     | Description |
+| ---------       | --------           | -------  | -----             |----------   |
 | Basic Vim       | Open a file/buffer |          | `:e {filename}`   |             |
 | Basic Vim       | New file/buffer    |          | `:enew`           |             |
+| Basci Vim       | List open buffers  |          |  `:ls`            |             |
+|                 |                    |          |                   |             |
 | Basic Vim       | New tab            |          | `:tabe`           |             |
+| Default spf13-vim | move to left tab |          |  `shift + h`      |             |
+| Default spf13-vim | move to right tab |         |  `shift + l`      |             |
+|                 |                    |          |                   |             |
 | Basic Vim       | Horizontal split   |          | `:sp`             |             |
 | Basic Vim       | Vertical split     |          | `:vs`             |             |
+| Default spf13-vim | move to left buffer |       |  `ctrl + h`       |             |
+| Default spf13-vim | move to right buffer |      |  `ctrl+ l`        |             |
+| Default spf13-vim | move to top buffer |        |  `shift + k`      |             |
+| Default spf13-vim | move to bottom buffer |     |  `shift + j`      |             |
+| Basic Vim       | Close split/tab    |          | `:close`          |             |
+|                 |                    |          |                   |             |
 | Basic Vim       | Save               |          | `:w`              |             |
+| Basic Vim       | Save-all           |          | `:wa`             |             |
 | Basic Vim       | Save-as            |          | `:sav {filename}` |             |
+|                 |                    |          |                   |             |
 | Basic Vim       | Quit               |          | `:q`              |             |
+| Basic Vim       | Quit-all           |          | `:qa`             |             |
 
 
 ###Plugin: [vim-commentary]()
@@ -46,22 +69,5 @@ block or line up = shift + k
 ````
 block or line down = shift + j
 
-----------------------------------------------------------
-Default spf13-vim shortcut -- change to left or right tab:
-
-change to left tab = shift + h
-
-change to right tab = shift + l
-
-----------------------------------------------------------------------------
-Default spf13-vim shortcut -- change to left,right,up, or down split window
-
-change to left window = ctrl + h
-
-change to right window = ctrl + l
-
-change to up window = ctrl + k
-
-change to down window = ctrl + j
 
 
