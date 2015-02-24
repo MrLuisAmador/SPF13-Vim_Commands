@@ -14,7 +14,7 @@ Sublime Text.
 
 ##General 
 
-| Plug-in          | Command            | Mac OS X | Windows/Linux     | Description |
+| Source          | Command            | Mac OS X | Windows/Linux     | Description |
 | ---------       | --------           | -------  | -----             |----------   |
 | Basic Vim       | Command Mode       |          | `shift + :`       |             |
 | Basic Vim       | Help documentation |          | `:h {query}`      |             |
@@ -22,7 +22,7 @@ Sublime Text.
 
 ##Window Management
 
-| Plug-in          | Command            | Mac OS X | Windows/Linux     | Description |
+| Source          | Command            | Mac OS X | Windows/Linux     | Description |
 | ---------       | --------           | -------  | -----             |----------   |
 | Basic Vim       | Open a file/buffer |          | `:e {filename}`   |             |
 | Basic Vim       | New file/buffer    |          | `:enew`           |             |
@@ -48,16 +48,14 @@ Sublime Text.
 | Basic Vim       | Quit-all           |          | `:qa`             |             |
 
 
-###Plugin: [vim-commentary]()
+##Plug-ins
 
--- Comment stuff out:
+| Source                                                    | Command                              | Mac OS X | Windows/Linux     | Description |
+| ---------                                                 | --------                             | -------  | -----             |----------   |
+| [vim-commentary](https://github.com/tpope/vim-commentary) | Comment or uncomment a line of code  |          | `gcc`             |             |
+| [vim-commentary](https://github.com/tpope/vim-commentary) | Comment or uncomment a block of code |          | `gc`              |             |
+|                                                           |                                      |          |                   |             |
 
-````
-A block of code = gc
-````
-
-````
-A quick one line = gcc
 
 
 -------------------------------------------------------------------------
