@@ -46,6 +46,9 @@ Sublime Text.
 |                 |                    |          |                   |             |
 | Basic Vim       | Quit               |          | `:q`              |             |
 | Basic Vim       | Quit-all           |          | `:qa`             |             |
+|                 |                    |          |                   |             |
+| Basic Vim       | increment up a number |       | `ctrl + a`     |             |
+| Basic Vim       | decrement down a number |     | `ctrl + x`     |             |
 
 
 ##Plug-ins
