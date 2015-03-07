@@ -43,35 +43,37 @@ Sublime Text.
 
 ##Edit
 
-    |                   |                         |          |                       |             |
-    | Basic Vim         | Undo                    |          | `u`                   |             |
-    | Basic Vim         | Redo                    |          | `:redo`               |             |
-    |                   |                         |          |                       |             |
-    | Basic Vim         | Copy/Yank line          |          | `yy`                  |             |
-    | Basic Vim         | Cut line                |          | `dd`                  |             |
-    | Basic Vim         | Copy/Yank selection or copy charater under cursor |          | `y`                   |             |
-    | Basic Vim         | Cut selection           |          | `d`                   |             |
-    | Basic Vim         | Cut charater under cursor |          | `x`                   |             |
-    |                   |                         |          |                       |             |
-    | Basic Vim         | Paste after the cursor  |          | `p`                   |             |
-    | Basic Vim         | Paste before the cursor |          | `p`                   |             |
-    |                   |                         |          |                       |             |
-    | Basic Vim         | Show Clipboard/Resigters|          | `:di`                 |             |
-    | Basic Vim         | Copy to Clipboard/Resigters|       | `”{letter}y`          |             |
-    | Basic Vim         | Paste Clipboard/Resigters|       | `”{letter}p`          |             |
-    |                   |                         |          |                       |             |
-    | Default spf13-vim | move to right tab       |          | `shift + l`           |             |
-    | Basic Vim         | Horizontal split        |          | `:sp`                 |             |
-    | Basic Vim         | Vertical split          |          | `:vs`                 |             |
-    | Default spf13-vim | move to left buffer     |          | `ctrl + h`            |             |
-    | Default spf13-vim | move to right buffer    |          | `ctrl+ l`             |             |
-    | Default spf13-vim | move to top buffer      |          | `shift + k`           |             |
-    | Default spf13-vim | move to bottom buffer   |          | `shift + j`           |             |
-    |                   |                         |          |                       |             |
-    |                   |                         |          |                       |             |
-    |                   |                         |          |                       |             |
-    | Basic Vim         | increment up a number   |          | `ctrl + a`            |             |
-    | Basic Vim         | increment down a number |          | `ctrl + x`            |             |
+| Source            | Command                                           | Mac OS X                 | Windows/Linux         | Description |
+| ---------         | ----------------------                            | -------                  | ----------------      | ----------  |
+|                   |                                                   |                          |                       |             |
+| Basic Vim         | Undo                                              |                          | `u`                   |             |
+| Basic Vim         | Redo                                              |                          | `:redo`               |             |
+|                   |                                                   |                          |                       |             |
+| Basic Vim         | Copy/Yank line                                    |                          | `yy`                  |             |
+| Basic Vim         | Cut line                                          |                          | `dd`                  |             |
+| Basic Vim         | Copy/Yank selection or copy charater under cursor |                          | `y`                   |             |
+| Basic Vim         | Cut selection                                     |                          | `d`                   |             |
+| Basic Vim         | Cut charater under cursor                         |                          | `x`                   |             |
+|                   |                                                   |                          |                       |             |
+| Basic Vim         | Paste after the cursor                            |                          | `p`                   |             |
+| Basic Vim         | Paste before the cursor                           |                          | `p`                   |             |
+|                   |                                                   |                          |                       |             |
+| Basic Vim         | Show Clipboard/Resigters                          |                          | `:di`                 |             |
+| Basic Vim         | Copy to Clipboard/Resigters                       |                          | `”{letter}y`          |             |
+| Basic Vim         | Paste Clipboard/Resigters                         |                          | `”{letter}p`          |             |
+|                   |                                                   |                          |                       |             |
+| Default spf13-vim | move to right tab                                 |                          | `shift + l`           |             |
+| Basic Vim         | Horizontal split                                  |                          | `:sp`                 |             |
+| Basic Vim         | Vertical split                                    |                          | `:vs`                 |             |
+| Default spf13-vim | move to left buffer                               |                          | `ctrl + h`            |             |
+| Default spf13-vim | move to right buffer                              |                          | `ctrl+ l`             |             |
+| Default spf13-vim | move to top buffer                                |                          | `shift + k`           |             |
+| Default spf13-vim | move to bottom buffer                             |                          | `shift + j`           |             |
+|                   |                                                   |                          |                       |             |
+|                   |                                                   |                          |                       |             |
+|                   |                                                   |                          |                       |             |
+| Basic Vim         | increment up a number                             |                          | `ctrl + a`            |             |
+| Basic Vim         | increment down a number                           |                          | `ctrl + x`            |             |
 
 ##Name Here
 
