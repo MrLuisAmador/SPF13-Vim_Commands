@@ -22,23 +22,23 @@ Sublime Text.
 
 ##File
 
-    | Source            | Command                 | Mac OS X | Windows/Linux               | Description |
-    | ---------         | --------                | -------  | -----                       | ----------  |
-    | Basic Vim         | New file/buffer         |          | `:e {New filename}`         |             |
-    | Basic Vim         | Open a files/buffers    |          | `:e {/dir/{filename}`       |             |
-    | Basic Vim         | Open recent file/buffer |          |                             |             |
-    |                   |                         |          |                             |             |
-    | Basci Vim         | List open files/buffers |          | `:ls`                       |             |
-    | Basci Vim         | Go to next files/buffers|          | `:bn {number or filename}`  |             |
-    | Basci Vim         | Close files/buffers     |          | `:bd {numbers or filenames}`|             |
-    |                   |                         |          |                       |             |
-    | Basic Vim         | Save                    |          | `:w`                  |             |
-    | Basic Vim         | Save-as                 |          | `:sav {filename}`     |             |
-    | Basic Vim         | Save-all                |          | `:wa`                 |             |
-    |                   |                         |          |                       |             |
-    | Basic Vim         | Quit                    |          | `:q`                  |             |
-    | Basic Vim         | Quit-all                |          | `:qa`                 |             |
-    | Basic Vim         | Save and quit-all       |          | `:wqa`                |             |
+| Source            | Command                 | Mac OS X | Windows/Linux               | Description |
+| ---------         | ----------------------  | -------  | ----------------            | ----------  |
+| Basic Vim         | New file/buffer         |          | `:e {New filename}`         |             |
+| Basic Vim         | Open a files/buffers    |          | `:e {/dir/{filename}`       |             |
+| Basic Vim         | Open recent file/buffer |          |                             |             |
+|                   |                         |          |                             |             |
+| Basci Vim         | List open files/buffers |          | `:ls`                       |             |
+| Basci Vim         | Go to next files/buffers|          | `:bn {number or filename}`  |             |
+| Basci Vim         | Close files/buffers     |          | `:bd {numbers or filenames}`|             |
+|                   |                         |          |                             |             |
+| Basic Vim         | Save                    |          | `:w`                        |             |
+| Basic Vim         | Save-as                 |          | `:sav {filename}`           |             |
+| Basic Vim         | Save-all                |          | `:wa`                       |             |
+|                   |                         |          |                             |             |
+| Basic Vim         | Quit                    |          | `:q`                        |             |
+| Basic Vim         | Quit-all                |          | `:qa`                       |             |
+| Basic Vim         | Save and quit-all       |          | `:wqa`                      |             |
 
 
 ##Edit
