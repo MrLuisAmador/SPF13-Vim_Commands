@@ -4,13 +4,8 @@ This is my public reference of the keyboard commands/shortcuts that will help yo
 This is for people wanting to make the switch from **Sublime Text** to **Vim**. My goal is to be able to reference all of the popular
 shortcuts that we use with Sublime Text and display how to do them with spf13-vim.
 
-FYI, All of this information can be attained by searching for the **README** file of each installed plugin of spf13-vim. You will
-also have to be familiar with using **Vim**, so come back once you feel comfortable with Vim and your wrist will thank you in the future.
-
-##Vim Command Mode
-
-I consider this the command palette of **Vim**. There is too much to document on the command mode, so once again, I’m only going to display what I feel is in comparison to
-Sublime Text.
+More information can be attained by searching for the **README** file of each installed plugin of spf13-vim. You will
+also have to be familiar with basic **Vim**, so come back once you feel comfortable with Vim and your wrist will thank you in the future.
 
 ##General
 
@@ -19,7 +14,6 @@ Sublime Text.
 | Basic Vim       | Command Mode       |          | `shift + :`       |             |
 | Basic Vim       | Help documentation |          | `:h {query}`      |             |
 | Basic Vim       | Your config file   |          | `:e $MYVIMRC`     |             |
-
 
 ##File
 
@@ -39,7 +33,6 @@ Sublime Text.
 | Basic Vim         | Quit                    |          | `:q`                        |             |
 | Basic Vim         | Quit-all                |          | `:qa`                       |             |
 | Basic Vim         | Save and quit-all       |          | `:wqa`                      |             |
-
 
 ##Edit
 
