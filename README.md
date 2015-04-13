@@ -18,6 +18,7 @@ Sublime Text.
 | ---------       | --------           | -------  | --------------    |----------   |
 | Basic Vim       | Command Mode       |          | `shift + :`       |             |
 | Basic Vim       | Help documentation |          | `:h {query}`      |             |
+| Basic Vim       | Your config file   |          | `:e $MYVIMRC`     |             |
 
 
 ##File
@@ -46,7 +47,7 @@ Sublime Text.
 | ---------         | ----------------------                            | -------                  | ----------------      | ----------  |
 |                   |                                                   |                          |                       |             |
 | Basic Vim         | Undo                                              |                          | `u`                   |             |
-| Basic Vim         | Redo                                              |                          | `:redo`               |             |
+| Basic Vim         | Redo                                              |                          | `Ctrl + r`            |             |
 |                   |                                                   |                          |                       |             |
 | Basic Vim         | Copy/Yank line                                    |                          | `yy`                  |             |
 | Basic Vim         | Cut line                                          |                          | `dd`                  |             |
@@ -76,7 +77,8 @@ Sublime Text.
 
 ## View
 
-
+| Source            | Command                 | Mac OS X | Windows/Linux         | Description |
+| ---------         | ----------------------  | -------  | ----------------      | ----------  |
 |                   |                         |          |                       |             |
 | Default spf13-vim | move to left tab        |          | `shift + h`           |             |
 | Default spf13-vim | move to right tab       |          | `shift + l`           |             |
@@ -87,8 +89,6 @@ Sublime Text.
 | Default spf13-vim | move to right buffer    |          | `ctrl+ l`             |             |
 | Default spf13-vim | move to top buffer      |          | `shift + k`           |             |
 | Default spf13-vim | move to bottom buffer   |          | `shift + j`           |             |
-|                   |                         |          |                       |             |
-|                   |                         |          |                       |             |
 |                   |                         |          |                       |             |
 | Basic Vim         | increment up a number   |          | `ctrl + a`            |             |
 | Basic Vim         | increment down a number |          | `ctrl + x`            |             |
