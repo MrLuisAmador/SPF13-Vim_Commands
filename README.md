@@ -90,9 +90,14 @@ also have to be familiar with basic **Vim**, so come back once you feel comforta
 
 | Source                                                    | Command                              | Mac OS X | Windows/Linux     | Description |
 | ---------                                                 | --------                             | -------  | -----             |----------   |
-| [vim-commentary](https://github.com/tpope/vim-commentary) | Comment or uncomment a line of code  |          | `gcc`             |             |
-| [vim-commentary](https://github.com/tpope/vim-commentary) | Comment or uncomment a block of code |          | `gc`              |             |
+| [ctrlp.vim](https://github.com/kien/ctrlp.vim)            | Open up fuzzy search                 |          | `ctrl + p`        |             |
+|                                                           | Open the file in V split             |          | `ctrl + v`        |             |
+|                                                           | Open the file in new tab             |          | `ctrl + t`        |             |
 |                                                           |                                      |          |                   |             |
+| [vim-commentary](https://github.com/tpope/vim-commentary) | Comment or uncomment a line of code  |          | `gcc`             |             |
+|                                                           | Comment or uncomment a block of code |          | `gc`              |             |
+|                                                           |                                      |          |                   |             |
+| [emmet-vim](http://mattn.github.com/emmet-vim)            | Expand emmet syntax                  |          | `ctrl + y ,`      |             |
 
 
 
