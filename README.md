@@ -1,11 +1,8 @@
-#Spf13-Vim Keyboard Commands/Shortcuts
+# VIM Cheat Sheet Keyboard Commands/Shortcuts
 
-This is my public reference of the keyboard commands/shortcuts that will help you quickly be productive with [spf13-vim](https://github.com/spf13/spf13-vim).
-This is for people wanting to make the switch from **Sublime Text** to **Vim**. My goal is to be able to reference all of the popular
-shortcuts that we use with Sublime Text and display how to do them with spf13-vim.
+This is my public reference of the keyboard commands/shortcuts that will help you quickly be productive with VIM.
 
-More information can be attained by searching for the **README** file of each installed plugin of spf13-vim. You will
-also have to be familiar with basic **Vim**, so come back once you feel comfortable with Vim and your wrist will thank you in the future.
+This is for people wanting to make the switch from **nano** to **Vim**. My goal is to be able to reference all of the popular commands and shortcuts that we use with VIM.
 
 ##General
 
